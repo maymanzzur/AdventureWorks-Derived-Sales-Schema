@@ -19,8 +19,6 @@ The project serves both as a **portfolio piece** and a **hands-on playground** f
 3. [Data Import and Initialization](#3-data-import-and-initialization)  
 4. [Queries and Insights](#4-queries-and-insights)  
 5. [Summary and Conclusions](#5-summary-and-conclusions)  
-6. [References and Appendices](#6-references-and-appendices)  
-
 ---
 
 ## 1. Introduction
@@ -138,13 +136,3 @@ Identifies recent hires in Manufacturing and QA departments.
 
 ---
 
-## 6. References and Appendices
-
-### 6.1 SQL Files
-- [`AW-Sales.sql`](https://github.com/maymanzzur/AdventureWorks-Sales-Schema-/blob/main/AW-Sales.sql)  : full DDL, data import, and 10 demo queries
-
-### 6.2 Supporting Materials
-- Outputs were generated using SQL Server Management Studio (SSMS)  
-- Source data: `AdventureWorks2022` by Microsoft
-
----
