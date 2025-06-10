@@ -148,5 +148,3 @@ Identifies recent hires in Manufacturing and QA departments.
 - Source data: `AdventureWorks2022` by Microsoft
 
 ---
-
-> Built with ❤️ by Nikita Sonkin
