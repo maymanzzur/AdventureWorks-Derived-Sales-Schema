@@ -1,6 +1,6 @@
 # AdventureWorks-Derived Sales Schema 
 
-> **Author:** Nikita Sonkin  
+> **Author:** may manzzur 
 > **Base Dataset:** AdventureWorks 2022  
 > **License:** MIT
 
@@ -141,7 +141,7 @@ Identifies recent hires in Manufacturing and QA departments.
 ## 6. References and Appendices
 
 ### 6.1 SQL Files
-- [`AW-Sales.sql`](https://github.com/nikitasonkin/AdventureWorks-Sales-Schema-/blob/main/AW-Sales.sql)  : full DDL, data import, and 10 demo queries
+- [`AW-Sales.sql`](https://github.com/maymanzzur/AdventureWorks-Sales-Schema-/blob/main/AW-Sales.sql)  : full DDL, data import, and 10 demo queries
 
 ### 6.2 Supporting Materials
 - Outputs were generated using SQL Server Management Studio (SSMS)  
